@@ -1,0 +1,34 @@
+/* Basic styling for the container */
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Style for the title */
+  h1 {
+    font-size: 2.5rem;
+    color: #3f51b5;
+  }
+  
+  /* Style for the message */
+  p {
+    font-size: 1.5rem;
+    color: #4caf50;
+  }
+  
+  /* Style for the button */
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for button */
+  button:hover {
+    background-color: #d32f2f;
+  }
+  
